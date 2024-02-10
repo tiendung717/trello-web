@@ -1,9 +1,9 @@
-import { Button } from '@mui/material'
+import Board from './pages/Boards/_id'
 
 function App() {
   return (
     <>
-      <Button variant='contained'>Contained</Button>
+      <Board />
     </>
   )
 }
